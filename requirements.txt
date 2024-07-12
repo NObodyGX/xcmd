@@ -1,0 +1,11 @@
+zhconv
+nuitka
+natsort
+
+pdf2image
+pillow
+
+alive-progress
+
+tomli
+tomli_w
